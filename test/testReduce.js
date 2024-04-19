@@ -1,4 +1,4 @@
-import {reduce} from '../functions.js/reduce.js';
+import {reduce} from '../functions/reduce.js';
 
 const array =[1,2,3,4,5,5];
 

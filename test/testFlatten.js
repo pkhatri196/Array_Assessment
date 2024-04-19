@@ -1,4 +1,4 @@
-import {flatten} from '../functions.js/flatten.js';
+import {flatten} from '../functions/flatten.js';
 
 const nestedArray = [1, [2], [[3]], [[[4]]]];
 

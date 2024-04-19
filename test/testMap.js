@@ -1,4 +1,4 @@
-import {map} from '../functions.js/map.js';
+import {map} from '../functions/map.js';
 
 const array = [1,2,3,4,5,5];
 

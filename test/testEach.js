@@ -1,4 +1,4 @@
-import {each} from '../functions.js/each.js';
+import {each} from '../functions/each.js';
 
 const array = [1,2,3,4,5,5];
 

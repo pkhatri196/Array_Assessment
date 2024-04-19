@@ -1,4 +1,4 @@
-import {find} from '../functions.js/find.js';
+import {find} from '../functions/find.js';
 
 const array =[1,2,3,4,5,5];
 
